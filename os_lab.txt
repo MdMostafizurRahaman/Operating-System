@@ -1,0 +1,16 @@
+Lab Exam Syllabus (For my part):
+
+Shell scripting: uploaded slides + programming (loop, conditionals, variables, file operations, that is all the things that were needed in recycle bin assignment)
+Process (from book Linux System Programming): Chapter 5 - process ID, process ID allocation, process hierarchy, exec family of calls, fork system call, terminating a process
++ Unix Processes: Wait and Signal API slide
+
+Linux Threads -  Linux Threads: Pthread API slide
+Linux Process Synchronization- mutex and condition variables from slide and semaphore API from book
+Synchronization Examples: Implementation from book, you should practice coding these problems
+
+Exam problem type (my part):
+I will try to provide problems that mimic assignment problems as closely as possible. However, the problems will be smaller in scope. Note that, this does not mean that classroom assignments will be in the exam. Exam problems will be different from classroom assignments, for example, I may as you to write a shell script to count number of words in a file and make the file write protected when a specific word count is reached (or harder problems).  Also note that, the number of commands in bash is huge!  Here, man page is your friend. Look here for an interesting perspective - https://askubuntu.com/questions/20752/how-can-i-search-within-a-manpage
+
+You may expect a problem from shell scripting, a problem from process + synchronization+examples and a problem from threads. However, this distribution may change a little.
+
+I am also going to post the recycle bin assignment solution very soon. Let me know if you have any queries.

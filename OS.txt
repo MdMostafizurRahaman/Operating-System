@@ -1,0 +1,10 @@
+https://anazimzada2020.medium.com/monitor-in-process-synchronization-dining-philosophers-problem-and-solution-using-monitors-9f15b3b0b006
+
+https://en.wikipedia.org/wiki/Readers%E2%80%93writers_problem
+
+https://dextutor.com/program-on-dining-philosopher-problem/
+
+https://docs.oracle.com/cd/E19120-01/open.solaris/816-5137/sync-11157/index.html
+
+
+Solution: https://www.db-book.com/db6/practice-exer-dir/index.html
